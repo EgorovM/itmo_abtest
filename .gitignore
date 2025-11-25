@@ -1,0 +1,5 @@
+data_kion/
+.ipynb_checkpoints/
+__MACOSX/
+venv/
+.DS_Store
